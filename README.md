@@ -1,5 +1,5 @@
 # HamsterKombat Clicker Script
-
+![pic.png](https://github.com/Krsan4Learn/HamsterKombat_Clicker/blob/main/pic.png?raw=true)
 ## Description
 The Python script automates the clicking actions of the HamsterKombat platform, and helps users quickly increase points to extract coins without the need for manual intervention.
 The program is now only used on computers, where you need to run any environment to simulate the Android system, place your account inside the environment and start getting points.
